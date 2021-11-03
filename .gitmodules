@@ -1,0 +1,3 @@
+[submodule "myreactjs"]
+	path = myreactjs
+	url = git@github.com:manishchuru/myreactjs.git
