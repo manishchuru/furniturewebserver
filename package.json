@@ -4,12 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js ",
-    "server": "nodemon server.js ",
-    "client": "npm start prefix  client ",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "\"npm run server.js\" \"npm run client\"",
-    "data:import": "seederScript.js"
+    "start": "node server.js "
+   
   },
   "keywords": [],
   "author": "",
@@ -53,3 +49,9 @@
     "validator": "^13.6.0"
   }
 }
+
+
+
+
+
+ 
